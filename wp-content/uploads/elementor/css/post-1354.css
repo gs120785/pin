@@ -1,0 +1,348 @@
+.elementor-1354 .elementor-element.elementor-element-0c71113 {
+    --display: flex;
+    --flex-direction: column;
+    --container-widget-width: calc( ( 1 - var( --container-widget-flex-grow)) * 100%);
+    --container-widget-height: initial;
+    --container-widget-flex-grow: 0;
+    --container-widget-align-self: initial;
+    --justify-content: center;
+    --align-items: center;
+    --background-transition: 0.3s;
+    --overlay-opacity: 0.7;
+    --padding-top: 2em;
+    --padding-right: 0em;
+    --padding-bottom: 5em;
+    --padding-left: 0em;
+    --z-index: 2;
+}
+
+.elementor-1354 .elementor-element.elementor-element-0c71113:not(.elementor-motion-effects-element-type-background),
+.elementor-1354 .elementor-element.elementor-element-0c71113>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: #0C0714;
+    background-image: var(--e-bg-lazyload-loaded);
+    --e-bg-lazyload: url("https://pinbnkmastery.click/wp-content/uploads/2023/08/blue-smooth-wall-textured-background-1.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.elementor-1354 .elementor-element.elementor-element-0c71113::before,
+.elementor-1354 .elementor-element.elementor-element-0c71113>.elementor-background-video-container::before,
+.elementor-1354 .elementor-element.elementor-element-0c71113>.e-con-inner>.elementor-background-video-container::before,
+.elementor-1354 .elementor-element.elementor-element-0c71113>.elementor-background-slideshow::before,
+.elementor-1354 .elementor-element.elementor-element-0c71113>.e-con-inner>.elementor-background-slideshow::before,
+.elementor-1354 .elementor-element.elementor-element-0c71113>.elementor-motion-effects-container>.elementor-motion-effects-layer::before {
+    --background-overlay: '';
+    background-color: var( --e-global-color-secondary);
+}
+
+.elementor-1354 .elementor-element.elementor-element-0c71113,
+.elementor-1354 .elementor-element.elementor-element-0c71113::before {
+    --border-transition: 0.3s;
+}
+
+.elementor-1354 .elementor-element.elementor-element-b5bd9a2 {
+    --display: flex;
+    --gap: 0px;
+    --background-transition: 0.3s;
+}
+
+.elementor-1354 .elementor-element.elementor-element-bd36300 img {
+    max-width: 19%;
+}
+
+.elementor-1354 .elementor-element.elementor-element-3af7226 {
+    text-align: center;
+}
+
+.elementor-1354 .elementor-element.elementor-element-3af7226 .elementor-heading-title {
+    color: var( --e-global-color-6533640);
+    font-family: "Montserrat", Sans-serif;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 1.2em;
+}
+
+.elementor-1354 .elementor-element.elementor-element-4c3590e {
+    --display: flex;
+    --background-transition: 0.3s;
+}
+
+.elementor-1354 .elementor-element.elementor-element-b842b6a {
+    text-align: center;
+    color: var( --e-global-color-6533640);
+    font-family: "Poppins", Sans-serif;
+    font-size: 44px;
+    font-weight: 700;
+}
+
+.elementor-1354 .elementor-element.elementor-element-fa8b3ef {
+    --display: flex;
+    --background-transition: 0.3s;
+}
+
+.elementor-1354 .elementor-element.elementor-element-3f94f32 .elementor-wrapper {
+    --video-aspect-ratio: 1.77777;
+}
+
+.elementor-1354 .elementor-element.elementor-element-3f94f32>.elementor-widget-container {
+    border-radius: 8px 8px 8px 8px;
+}
+
+.elementor-1354 .elementor-element.elementor-element-c0f3077 {
+    --display: flex;
+    --gap: 0px;
+    --background-transition: 0.3s;
+}
+
+.elementor-1354 .elementor-element.elementor-element-97f9b9a {
+    text-align: center;
+    color: var( --e-global-color-6533640);
+    font-family: "Poppins", Sans-serif;
+    font-size: 31px;
+    font-weight: 700;
+}
+
+.elementor-1354 .elementor-element.elementor-element-51e4c8f {
+    --display: flex;
+    --gap: 0px;
+    --background-transition: 0.3s;
+    --padding-top: 16px;
+    --padding-right: 16px;
+    --padding-bottom: 16px;
+    --padding-left: 16px;
+}
+
+.elementor-1354 .elementor-element.elementor-element-36e34f7 {
+    text-align: center;
+}
+
+.elementor-1354 .elementor-element.elementor-element-36e34f7 .elementor-heading-title {
+    color: var( --e-global-color-6533640);
+    font-family: "Montserrat", Sans-serif;
+    font-size: 28px;
+    font-weight: 700;
+    -webkit-text-stroke-color: #000;
+    stroke: #000;
+    text-shadow: 0px 0px 10px rgba(0, 0, 0, 0.3);
+}
+
+.elementor-1354 .elementor-element.elementor-element-236523a {
+    text-align: center;
+    color: var( --e-global-color-6533640);
+    font-family: "Poppins", Sans-serif;
+    font-size: 24px;
+    font-weight: 400;
+}
+
+.elementor-1354 .elementor-element.elementor-element-0172e3f {
+    --display: flex;
+    --flex-direction: row;
+    --container-widget-width: initial;
+    --container-widget-height: 100%;
+    --container-widget-flex-grow: 1;
+    --container-widget-align-self: stretch;
+    --gap: 0px;
+    --background-transition: 0.3s;
+    --overlay-opacity: 0.5;
+    --position: fixed;
+    bottom: 0px;
+}
+
+.elementor-1354 .elementor-element.elementor-element-0172e3f:not(.elementor-motion-effects-element-type-background),
+.elementor-1354 .elementor-element.elementor-element-0172e3f>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: #FFD700;
+    background-image: var(--e-bg-lazyload-loaded);
+    --e-bg-lazyload: url("https://pinbnkmastery.click/wp-content/uploads/2023/08/blue-smooth-wall-textured-background-1.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.elementor-1354 .elementor-element.elementor-element-0172e3f::before,
+.elementor-1354 .elementor-element.elementor-element-0172e3f>.elementor-background-video-container::before,
+.elementor-1354 .elementor-element.elementor-element-0172e3f>.e-con-inner>.elementor-background-video-container::before,
+.elementor-1354 .elementor-element.elementor-element-0172e3f>.elementor-background-slideshow::before,
+.elementor-1354 .elementor-element.elementor-element-0172e3f>.e-con-inner>.elementor-background-slideshow::before,
+.elementor-1354 .elementor-element.elementor-element-0172e3f>.elementor-motion-effects-container>.elementor-motion-effects-layer::before {
+    --background-overlay: '';
+    background-color: var( --e-global-color-secondary);
+}
+
+.elementor-1354 .elementor-element.elementor-element-0172e3f,
+.elementor-1354 .elementor-element.elementor-element-0172e3f::before {
+    --border-transition: 0.3s;
+}
+
+body:not(.rtl) .elementor-1354 .elementor-element.elementor-element-0172e3f {
+    left: 0px;
+}
+
+body.rtl .elementor-1354 .elementor-element.elementor-element-0172e3f {
+    right: 0px;
+}
+
+.elementor-1354 .elementor-element.elementor-element-9d65d82 {
+    --display: flex;
+    --flex-direction: column;
+    --container-widget-width: 100%;
+    --container-widget-height: initial;
+    --container-widget-flex-grow: 0;
+    --container-widget-align-self: initial;
+    --justify-content: center;
+    --background-transition: 0.3s;
+}
+
+.elementor-1354 .elementor-element.elementor-element-0a99ddd {
+    --display: flex;
+    --flex-direction: column;
+    --container-widget-width: 100%;
+    --container-widget-height: initial;
+    --container-widget-flex-grow: 0;
+    --container-widget-align-self: initial;
+    --background-transition: 0.3s;
+    --overlay-opacity: 0.5;
+    --padding-top: 5em;
+    --padding-right: 0em;
+    --padding-bottom: 5em;
+    --padding-left: 0em;
+}
+
+.elementor-1354 .elementor-element.elementor-element-0a99ddd:not(.elementor-motion-effects-element-type-background),
+.elementor-1354 .elementor-element.elementor-element-0a99ddd>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-image: var(--e-bg-lazyload-loaded);
+    --e-bg-lazyload: url("https://pinbnkmastery.click/wp-content/uploads/2023/08/plain-dark-blue-wooden-wall-product-background.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.elementor-1354 .elementor-element.elementor-element-0a99ddd::before,
+.elementor-1354 .elementor-element.elementor-element-0a99ddd>.elementor-background-video-container::before,
+.elementor-1354 .elementor-element.elementor-element-0a99ddd>.e-con-inner>.elementor-background-video-container::before,
+.elementor-1354 .elementor-element.elementor-element-0a99ddd>.elementor-background-slideshow::before,
+.elementor-1354 .elementor-element.elementor-element-0a99ddd>.e-con-inner>.elementor-background-slideshow::before,
+.elementor-1354 .elementor-element.elementor-element-0a99ddd>.elementor-motion-effects-container>.elementor-motion-effects-layer::before {
+    --background-overlay: '';
+    background-color: var( --e-global-color-secondary);
+}
+
+.elementor-1354 .elementor-element.elementor-element-0a99ddd,
+.elementor-1354 .elementor-element.elementor-element-0a99ddd::before {
+    --border-transition: 0.3s;
+}
+
+.elementor-1354 .elementor-element.elementor-element-e3d7a30 {
+    --display: flex;
+    --background-transition: 0.3s;
+}
+
+.elementor-1354 .elementor-element.elementor-element-5168237 {
+    text-align: center;
+    color: var( --e-global-color-6533640);
+    font-family: "Poppins", Sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+@media(max-width:1024px) {
+    .elementor-1354 .elementor-element.elementor-element-97f9b9a {
+        font-size: 25px;
+    }
+    .elementor-1354 .elementor-element.elementor-element-36e34f7 .elementor-heading-title {
+        font-size: 26px;
+    }
+    .elementor-1354 .elementor-element.elementor-element-236523a {
+        font-size: 18px;
+    }
+}
+
+@media(min-width:768px) {
+    .elementor-1354 .elementor-element.elementor-element-b5bd9a2 {
+        --width: 60%;
+    }
+    .elementor-1354 .elementor-element.elementor-element-4c3590e {
+        --width: 95%;
+    }
+    .elementor-1354 .elementor-element.elementor-element-fa8b3ef {
+        --width: 78%;
+    }
+    .elementor-1354 .elementor-element.elementor-element-9d65d82 {
+        --width: 50%;
+    }
+}
+
+@media(max-width:767px) {
+    .elementor-1354 .elementor-element.elementor-element-3af7226 .elementor-heading-title {
+        font-size: 18px;
+    }
+    .elementor-1354 .elementor-element.elementor-element-b842b6a {
+        font-size: 24px;
+    }
+    .elementor-1354 .elementor-element.elementor-element-97f9b9a {
+        font-size: 22px;
+    }
+    .elementor-1354 .elementor-element.elementor-element-51e4c8f {
+        --gap: 0px;
+    }
+    .elementor-1354 .elementor-element.elementor-element-36e34f7 .elementor-heading-title {
+        font-size: 20px;
+    }
+    .elementor-1354 .elementor-element.elementor-element-236523a {
+        font-size: 14px;
+    }
+    .elementor-1354 .elementor-element.elementor-element-0a99ddd {
+        --padding-top: 3em;
+        --padding-right: 1em;
+        --padding-bottom: 3em;
+        --padding-left: 1em;
+    }
+    .elementor-1354 .elementor-element.elementor-element-5168237 {
+        font-size: 16px;
+    }
+}
+
+/* Start custom CSS for container, class: .elementor-element-51e4c8f */
+
+.elementor-1354 .elementor-element.elementor-element-51e4c8f {
+    background: linear-gradient(-45deg, #a629f2, #ff6e00, #ff1414, #e60023);
+    background-size: 400% 400%;
+    border-radius: 8px;
+    animation: gradient 5s ease infinite, shake 4.2s cubic-bezier(.36, .07, .19, .97) both infinite;
+    transform: translate3d(0, 0, 0);
+    perspective: 1000px;
+}
+
+@keyframes gradient {
+    0% {
+        background-position: 0% 50%;
+    }
+    50% {
+        background-position: 100% 50%;
+    }
+    100% {
+        background-position: 0% 50%;
+    }
+}
+
+@keyframes shake {
+    10%,
+    90% {
+        transform: translate3d(-1px, 0, 0);
+    }
+    20%,
+    80% {
+        transform: translate3d(2px, 0, 0);
+    }
+    30%,
+    50%,
+    70% {
+        transform: translate3d(-4px, 0, 0);
+    }
+    40%,
+    60% {
+        transform: translate3d(4px, 0, 0);
+    }
+}
+
+/* End custom CSS */
